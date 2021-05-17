@@ -6,3 +6,8 @@ This project was there to get known to the python libraries numpry and pandas.
 
 ## What it's about
 Bikeshare data from three different US states has been automatically transformed and prepared for further calculations.
+
+## Used functions
+```
+This is some code
+```
