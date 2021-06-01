@@ -6,7 +6,7 @@ Udacity nanodegree program - python project - bikeshare data analysis
 This project was there to get known to the python libraries numpry and pandas. As well as get more practice in working with Python and DataFrames. A readme file was created to give more information on what happens in my bikeshare.py file.
 
 ## What it's about
-Bikeshare data from three different US contries (Chicago, Washington, New York City) has been automatically transformed and prepared for further calculations. It is an interactive project with User input to get more details on what the user would like to analyze within the given data.
+Bikeshare data from three different US contries (Chicago, Washington, New York City) has been automatically transformed and prepared for further calculations. It is an interactive project with User input to get more details on what the user would like to analyze within the given data. For example the User recieves details about most used bikesharing stations per city.
 
 ## Used functions
 Get user information and make sure one of the correct options was choosen. In this example for the city.
