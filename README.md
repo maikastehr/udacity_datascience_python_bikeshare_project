@@ -21,7 +21,7 @@ Get the necessary date-formatting using pandas library:
 df['Start Time'] = pd.to_datetime(df["Start Time"])
 df['month'] = df['Start Time'].dt.month
 ````
-Get the filtered data with 'where' function from library. Filter the before given user input.
+Get the filtered data with 'where' function from library. Filter the before given user input. Checkup data in pandas library.
 ```
 if month != 'all':
     df = df.where(df['month'] == month_dict[month])
