@@ -17,7 +17,7 @@ city = input("Which city (chicago, new york city, washington) would you like to 
        city = input("Which city (chicago, new york city, washington) would you like to analyze? ")
 ```
 
-Get the necessary date-formatting using pandas library:
+Get the necessary date-formatting using pandas library (date-formatting with function to_datetime: See also pandas documentation):
 ```
 df['Start Time'] = pd.to_datetime(df["Start Time"])
 df['month'] = df['Start Time'].dt.month
