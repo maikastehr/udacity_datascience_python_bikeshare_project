@@ -1,4 +1,5 @@
-# udacity_datascience_python_bikeshare_project
+# Nanodegree Datascience
+# Bikeshare python project
 Udacity nanodegree program - python project - bikeshare data analysis
 
 ## What i've learned
