@@ -1,7 +1,7 @@
 # udacity_datascience_python_bikeshare_project
 Udacity nanodegree program - python project - bikeshare data analysis
 
-## What i've learned
+## What I've learned
 This project was there to get known to the python libraries numpry and pandas. As well as get more practice in working with Python and DataFrames.
 
 ## What it's about
