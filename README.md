@@ -37,6 +37,7 @@ print("The most common month is: {}".format(most_common_month))
 Get different statisticial data using 'sum', 'mean', 'value_counts', 'min', 'max' etc.
 ```
 total_travel_time = pd.to_timedelta(df['Trip Duration'].sum(), unit = 's')
+total_mean_time = pd.to_timedelta(df['Trip Duration'].mean(), unit = 's')
 ```
 
 Get the first 5 rows of the data. Let the user interact if he wants to see 5 more rows:
